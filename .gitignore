@@ -23,5 +23,8 @@ uploads/
 .vscode/
 .idea/
 
+# Expo
+.expo/
+
 # Package lock (optional)
 # package-lock.json
